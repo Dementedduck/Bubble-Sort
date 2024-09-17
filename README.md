@@ -1,2 +1,4 @@
 # Bubble-Sort
-A simple sorting algorithm called bubble sort made in ruby
+A simple sorting algorithm called bubble sort that is made in ruby.
+
+Part of the Odin Project
